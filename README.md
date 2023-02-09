@@ -1,7 +1,4 @@
-# OfficeCabService-ZOHO_Level-3_InterView_Question
-This is the problem gave in ZOHO Technical round-3 interview on Oct 16, 2022 (Office cab service)
-
-Interview Question:
+Question:
  You are a developer at a company that is planning to provide doorstep drop for employees after work.
  Write a Programm(With and added emphasis on how you design the data storage and algorithms) for this bearing in mind the following:
 
